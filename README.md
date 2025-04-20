@@ -7,7 +7,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :fire: I aim to become a data scientist.<br/>
+  #### :fire: I aim to become a data analyst.<br/>
   #### :mortar_board: Bachelor of Information and Communication Engineering, Kangwon National University(KNU)
   <br/>
   <br/>
